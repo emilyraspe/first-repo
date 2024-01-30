@@ -21,4 +21,15 @@ This is a test for a git repository
 ### Image
 ![image](./IMG_1936.png)
 
+### Single Line Code
+Use single quotationsmarks to add 'code'
+
+### Block code
+
+'''js
+
+let cohort = "Valinna";
+
+'''
+
 
