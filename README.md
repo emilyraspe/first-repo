@@ -18,4 +18,7 @@ This is a test for a git repository
 ### Link a page
 [Text in square brackets](https://www.markdownguide.org/cheat-sheet/)
 
+### Image
+![image](./IMG_1936.png)
+
 
