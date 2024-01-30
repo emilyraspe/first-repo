@@ -22,14 +22,14 @@ This is a test for a git repository
 ![image](./IMG_1936.png)
 
 ### Single Line Code
-Use single quotationsmarks to add 'code'
+Use single quotationsmarks to add `code`
 
 ### Block code
 
-'''js
+``` js
 
-let cohort = "Valinna";
+let cohort = "Vanilla";
 
-'''
+```
 
 
